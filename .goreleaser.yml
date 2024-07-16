@@ -24,5 +24,5 @@ changelog:
     - '^test:'
 release:
   github:
-    owner: microsoft
+    owner: arnouthoebreckx
     name: terraform-provider-azuredevops
